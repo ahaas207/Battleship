@@ -1,2 +1,2 @@
 # Battleship Summer 21 Semester
-Battleship game, some input validation work needed. 
+Battleship game, runs however some input validation work needed for coordinates. 
